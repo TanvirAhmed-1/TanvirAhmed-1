@@ -1,53 +1,42 @@
-# 💫 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Tanvir%20Ahmed&fontSize=70" width="100%" />
+</p>
 
-I am a **Full-Stack Developer** dedicated to building high-performance web applications. My expertise lies in the **JavaScript ecosystem**, specifically focusing on modern frontend frameworks and efficient backend architectures.
+## 🚀 Full-Stack Developer | React & Next.js Specialist
+
+I am a passionate developer focused on building modern, high-performance web applications. I love creating clean designs and scalable backend systems using the latest technologies.
+
+### 🛠 My Tech Stack
+
+| Frontend | Backend | Database & Tools |
+| :--- | :--- | :--- |
+| **React, Next.js** | **Node.js, Express** | **Prisma (ORM)** |
+| **TypeScript** | **Rest API** | **PostgreSQL, MongoDB** |
+| **Tailwind CSS** | **Authentication** | **Git, GitHub, Vercel** |
 
 ---
 
-### 🚀 Technical Skills
+### 📂 Projects & Focus
+
+- ✨ **Awesome Project Showcase:** I am constantly building real-world applications. Check out my **Repositories** to see my latest work, including high-quality code and modern UI/UX.
+- 📚 **Book-Shop E-commerce:** A full-featured platform with Author pages, Wishlists, and a smooth Shopping Cart experience.
+- 🎨 **Modern Design:** I focus on making web apps look "Good-Looking" and professional using Tailwind CSS and Framer Motion.
+- ⚙️ **Performance:** Every project is optimized for speed and SEO using Next.js.
+
+---
+
+### 📫 Connect with Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<a href="https://www.linkedin.com/in/tanvir-ahmed-38088333a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanvir Ahmed" height="30" width="40" /></a>
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-### 🛠 Projects & Focus
-- 📚 **E-commerce for Books:** Developing a robust platform with author management, wishlists, and advanced cart functionality.
-- ⚡ **Scalable Apps:** Focused on building SEO-friendly and lightning-fast applications using **Next.js**.
-- 🔐 **Database Integrity:** Using **Prisma** for type-safe database queries and schema management.
-
----
-
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirAhmed-1&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirAhmed-1E&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🤝 Connect with Me
-
-- 💼 **LinkedIn:** [Tanvir Ahmed](https://www.linkedin.com/in/tanvir-ahmed-38088333a/)
-- 📧 **Email:** `your-email@example.com`
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+<p align="right">
+  <i>Keep coding and building amazing things!</i>
 </p>
